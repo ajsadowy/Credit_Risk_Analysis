@@ -10,6 +10,8 @@ The algorthms that were utilized were RandomOverSampler, SMOTE, ClusterCentroids
 ![pic](https://github.com/ajsadowy/Credit_Risk_Analysis/blob/main/IMAGES/1b.png)   
 ![pic](https://github.com/ajsadowy/Credit_Risk_Analysis/blob/main/IMAGES/1c.png)   
    
+
+   
 ### SMOTE Model
 ![pic](https://github.com/ajsadowy/Credit_Risk_Analysis/blob/main/IMAGES/2a.png)   
 ![pic](https://github.com/ajsadowy/Credit_Risk_Analysis/blob/main/IMAGES/2b.png)   
@@ -37,3 +39,6 @@ The algorthms that were utilized were RandomOverSampler, SMOTE, ClusterCentroids
    
 
 ## Conclusion   
+For every model used showed a poor precisions rate for determining high risk. Even with the EasyEnsembleClassifier model being the best model showed a precision of 9% for high risk.    
+   
+Now while the bank may be skeptical when using these models to determine credit eligibility for these high risk candidates, these datasets would support offering credit with higher interest rates and application fees to increase yields to offset the risk cost.
